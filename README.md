@@ -9,6 +9,7 @@ Run in Google Colab
 This project deal with images of fashion mnist dataset using a Deep Convolutional Generative Adversarial Network (DCGAN). The code is written using the Keras Sequential API.
 
 What are GANs?
+
 Generative Adversarial Networks (GANs) are one of the most interesting ideas in computer science today. Two models are trained simultaneously by an adversarial process. A generator ("the artist") learns to create images that look real, while a discriminator ("the art critic") learns to tell real images apart from fakes.
 
 
