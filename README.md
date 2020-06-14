@@ -18,3 +18,4 @@ During training, the generator progressively becomes better at creating images t
 
 
 This notebook demonstrates this process on the Fashion MNIST dataset. The animation shows in notebook is a series of images produced by the generator as it was trained for 10 epochs. The images begin as random noise, and increasingly resemble fashion images over time.
+
